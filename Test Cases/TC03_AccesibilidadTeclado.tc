@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verifica el orden básico de navegación por teclado en el login</description>
+   <name>TC03_AccesibilidadTeclado</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4659a9b6-951f-4069-beaf-67a2167d6ea4</testCaseGuid>
+</TestCaseEntity>

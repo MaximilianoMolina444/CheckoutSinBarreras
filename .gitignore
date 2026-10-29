@@ -1,0 +1,29 @@
+.gradle
+
+bin
+
+Reports
+
+Libs
+
+output
+
+!output/.gitkeep
+build
+
+.classpath
+
+.project
+
+.cache
+# Archivos locales y generados por Katalon / IDE
+.settings/
+Drivers/
+console.properties
+*.log
+*.lck
+*.tmp
+
+# Metadatos del sistema operativo
+.DS_Store
+Thumbs.db

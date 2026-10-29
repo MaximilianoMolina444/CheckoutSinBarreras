@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_LoginBloqueado</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>16a6e011-37d6-4999-b115-fc5c2cbeebbf</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5dd9f4a1-8675-4066-beca-549d0da53e1c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5d3a1756-38c1-45d6-a3ac-ec97febd9462</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'locked_out_user'</defaultValue>
+      <description></description>
+      <id>5dd9f4a1-8675-4066-beca-549d0da53e1c</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'secret_sauce'</defaultValue>
+      <description></description>
+      <id>5d3a1756-38c1-45d6-a3ac-ec97febd9462</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

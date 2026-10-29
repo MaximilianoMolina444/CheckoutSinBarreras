@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS_Login_DDT</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <maxConcurrentInstances>1</maxConcurrentInstances>
+   <numberOfRerun>3</numberOfRerun>
+   <orchestration>CLASSIC</orchestration>
+   <pageLoadTimeout>10</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>44722e9d-049d-44a8-9b00-be3a1b428b67</testSuiteGuid>
+   <testCaseLink>
+      <guid>aebb18aa-6a67-45de-a610-2de81cf5aaa6</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC01_LoginExitoso</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>98e68d91-03bd-4299-8767-483766317f21</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/LoginUsuariosValidos</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>98e68d91-03bd-4299-8767-483766317f21</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>099c43c8-00c0-4339-9ef1-c1fe09d2cf30</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>98e68d91-03bd-4299-8767-483766317f21</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>8c5b16b0-161a-4ffa-957d-e696257ccfc6</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
