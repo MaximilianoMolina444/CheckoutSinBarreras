@@ -62,8 +62,7 @@ CheckoutSinBarreras/
 └── CheckoutSinBarreras.prj
 ```
 
-Los reportes de ejecución y archivos locales de Katalon están excluidos del control de versiones mediante `.gitignore`. El reporte PDF exportado se conserva como evidencia local; revisá y anonimizá los datos del equipo antes de compartirlo públicamente.
-
+Los reportes de ejecución y archivos locales de Katalon están excluidos del control de versiones mediante `.gitignore`.
 ## Estado de referencia
 
 Última ejecución de `TSC_Login_Completa`: **4 suites, 5 ejecuciones aprobadas, 0 fallidas y 0 errores** (28 de octubre de 2026).
